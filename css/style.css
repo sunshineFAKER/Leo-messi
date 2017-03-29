@@ -1,0 +1,11 @@
+/*box样式*/
+.box { width:768px; height:720px; margin:0 auto; }
+
+.dd {width:256px;
+	 height:240px;
+	 background:url(../img/mouse.png); 
+	 float:left
+	 }
+.dx{
+    background-position: 0 -242px;
+}
